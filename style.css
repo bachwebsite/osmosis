@@ -4,3 +4,7 @@ bigtag {
 body {
   background-image:url('https://osmosis.vercel.app/assets/concrete2.png');
 }
+
+html {
+  background-color: black;
+}
