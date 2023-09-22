@@ -2,9 +2,5 @@ bigtag {
   font-size:150px;
 }
 body {
-  background-image:url('https://osmosis.vercel.app/assets/concrete2.png');
-}
-
-html {
-  background-color: black;
+  background-image:url('https://osmosis.vercel.app/assets/concrete2.jpg');
 }
